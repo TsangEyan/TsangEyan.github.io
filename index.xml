@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>【实验室名称624】</title>
+    <link>https://TsangEyan.github.io/</link>
+      <atom:link href="https://TsangEyan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>【实验室名称624】</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Jun 2022 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://TsangEyan.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>【实验室名称624】</title>
+      <link>https://TsangEyan.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Example Event</title>
+      <link>https://TsangEyan.github.io/event/example/</link>
+      <pubDate>Fri, 24 Jun 2022 13:00:00 +0000</pubDate>
+      <guid>https://TsangEyan.github.io/event/example/</guid>
+      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>In search of an ending</title>
+      <link>https://TsangEyan.github.io/post/20-12-02-icml-best-paper/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://TsangEyan.github.io/post/20-12-02-icml-best-paper/</guid>
+      <description>&lt;p&gt;Foreign private-equity barons circle a fading jewel of corporate Japan&lt;/p&gt;
+&lt;p&gt;Toshiba was once synonymous with Japan’s industrial might. Of late the conglomerate, which has made everything from memory cards to nuclear reactors, has become a byword for drama. Japan’s business press writes of“Toshiba Theatre”, which began with accounting fraud a decade ago and has continued to the present day in a series of “slapstick” struggles between management and shareholders. Toshiba’s share price has underperformed domestic and foreign rivals, as well as the broaderJapanese stockmarket (see chart).The latest plot twist comes amid talk of a buy­out led by Bain Capital, an American private­equity group. This raised hopes among investors for some sort of resolution to the saga. Toshiba’s market value has risen by a quarterin the past month.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Seeing and believing</title>
+      <link>https://TsangEyan.github.io/post/20-12-01-wowchemy-prize/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://TsangEyan.github.io/post/20-12-01-wowchemy-prize/</guid>
+      <description>&lt;p&gt;Tech firms are betting that “extended reality” glasses could be the next big product—and perhaps the next big platform&lt;/p&gt;
+&lt;p&gt;With eyes like saucers, nine-year-old Ralph Miles slowly removes his Quest 2 headset. “It was like being in another galaxy!” he exclaims. He has just spent ten minutes blasting alien robotswith deafening laser cannons—all the while seated silently in the home-electronics section of a London department store.Sales assistants bustle around, advertising
+the gear to take home today. “That would be sick!” enthuses Ralph. “Don’t get him started,” warns his dad.&lt;/p&gt;
+&lt;p&gt;Children are no longer the only ones excited about “extended reality”, a category which includes both fully immersive virtual reality (vr) and augmented reality (ar), in which computer imagery is superimposed onto users’ view of the world around them. Nearly every big technology firm is rushing to develop a vr or ar headset, convinced that what has long been a niche market may be on the brink of becoming something much larger.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://TsangEyan.github.io/publication/conference-paper/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://TsangEyan.github.io/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>https://TsangEyan.github.io/publication/journal-article/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://TsangEyan.github.io/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>https://TsangEyan.github.io/publication/preprint/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://TsangEyan.github.io/publication/preprint/</guid>
+      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://TsangEyan.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://TsangEyan.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://TsangEyan.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://TsangEyan.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://TsangEyan.github.io/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://TsangEyan.github.io/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tour</title>
+      <link>https://TsangEyan.github.io/tour/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://TsangEyan.github.io/tour/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
