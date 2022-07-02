@@ -4,7 +4,13 @@
   
   
   <url>
-    <loc>https://TsangEyan.github.io/</loc><lastmod>2022-06-24T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://TsangEyan.github.io/</loc><lastmod>2022-07-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://TsangEyan.github.io/talk/</loc><lastmod>2022-07-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://TsangEyan.github.io/talk/example2/</loc><lastmod>2022-07-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://TsangEyan.github.io/talk/example/</loc><lastmod>2022-07-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://TsangEyan.github.io/event/example/</loc><lastmod>2022-06-24T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -56,6 +62,10 @@
   <url>
     <loc>https://TsangEyan.github.io/people/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://TsangEyan.github.io/project/example/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://TsangEyan.github.io/categories/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://TsangEyan.github.io/project/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://TsangEyan.github.io/tour/</loc><changefreq>weekly</changefreq></url></urlset>
