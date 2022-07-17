@@ -16,10 +16,6 @@
   <url>
     <loc>https://TsangEyan.github.io/event/example/</loc><lastmod>2022-07-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://TsangEyan.github.io/course/</loc><lastmod>2022-06-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://TsangEyan.github.io/course/graduate-courses/</loc><lastmod>2022-06-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://TsangEyan.github.io/post/20-12-02-icml-best-paper/</loc><lastmod>2022-06-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://TsangEyan.github.io/post/</loc><lastmod>2022-06-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -29,8 +25,6 @@
     <loc>https://TsangEyan.github.io/post/20-12-01-wowchemy-prize2/</loc><lastmod>2022-06-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://TsangEyan.github.io/post/20-12-01-wowchemy-prize3/</loc><lastmod>2022-06-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://TsangEyan.github.io/course/undergraduate-courses/</loc><lastmod>2022-06-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://TsangEyan.github.io/publication-type/1/</loc><lastmod>2022-06-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -65,6 +59,8 @@
     <loc>https://TsangEyan.github.io/project/example/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://TsangEyan.github.io/categories/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://TsangEyan.github.io/course/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://TsangEyan.github.io/project/</loc><changefreq>weekly</changefreq></url>
   <url>
