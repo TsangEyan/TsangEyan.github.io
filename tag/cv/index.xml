@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CV | D3Lab</title>
+    <link>https://TsangEyan.github.io/tag/cv/</link>
+      <atom:link href="https://TsangEyan.github.io/tag/cv/index.xml" rel="self" type="application/rss+xml" />
+    <description>CV</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://TsangEyan.github.io/media/logo_hu7c8f66c823bc2a62619a39dc1829654e_14272_300x300_fit_lanczos_3.png</url>
+      <title>CV</title>
+      <link>https://TsangEyan.github.io/tag/cv/</link>
+    </image>
+    
+    <item>
+      <title>项目例子2</title>
+      <link>https://TsangEyan.github.io/project/example2/</link>
+      <pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://TsangEyan.github.io/project/example2/</guid>
+      <description>&lt;p&gt;移轴镜头作为一种特殊的拍摄手法，经常出现在电影中&lt;/p&gt;
+&lt;p&gt;移轴摄影会拍出小人国的效果的原因：在正常情况下，景深同对焦点距离成正比，同镜头焦距长度成反比，人眼也符合这个规律，大脑在长期的训练下也默认了这个规则。移轴镜头可以改变光路，使得焦平面和感光平面不平行，只有两个平面相交的那条线附近的景物清晰，造成特殊的“浅景深”。那种看起来像模型的移轴照片多是广角远距离拍摄，在大脑的规则中，这种距离的广角视角下不可能出现浅景深，所以会产生错觉，以为这是近距离摄影。在近距离景物又比较小的话，就像是模型了。&lt;/p&gt;
+&lt;p&gt;视频转载于无限飓风&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
