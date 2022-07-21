@@ -181,23 +181,6 @@
     </item>
     
     <item>
-      <title>Project</title>
-      <link>https://TsangEyan.github.io/test/portfolio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://TsangEyan.github.io/test/portfolio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://TsangEyan.github.io/test/intro/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://TsangEyan.github.io/test/intro/</guid>
-      <description>&lt;p&gt;Check out &lt;strong&gt;projects&lt;/strong&gt; below!🌈&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>项目例子</title>
       <link>https://TsangEyan.github.io/project/example1/</link>
       <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
@@ -222,7 +205,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 &lt;p&gt;
 
-&lt;div id=&#34;chart-942351678&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-962417538&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -232,7 +215,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-942351678&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-962417538&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
