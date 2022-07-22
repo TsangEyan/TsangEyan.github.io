@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses Projects | D3Lab</title>
+    <link>https://TsangEyan.github.io/courses-project/</link>
+      <atom:link href="https://TsangEyan.github.io/courses-project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Courses Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://TsangEyan.github.io/media/logo_hu7c8f66c823bc2a62619a39dc1829654e_14272_300x300_fit_lanczos_3.png</url>
+      <title>Courses Projects</title>
+      <link>https://TsangEyan.github.io/courses-project/</link>
+    </image>
+    
+    <item>
+      <title>课程1</title>
+      <link>https://TsangEyan.github.io/courses-project/course1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://TsangEyan.github.io/courses-project/course1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>课程2</title>
+      <link>https://TsangEyan.github.io/courses-project/course2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://TsangEyan.github.io/courses-project/course2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

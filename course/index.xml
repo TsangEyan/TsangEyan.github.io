@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Courses | D3Lab</title>
+    <title>Teaching | D3Lab</title>
     <link>https://TsangEyan.github.io/course/</link>
       <atom:link href="https://TsangEyan.github.io/course/index.xml" rel="self" type="application/rss+xml" />
-    <description>Courses</description>
+    <description>Teaching</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://TsangEyan.github.io/course/featured.png</url>
-      <title>Courses</title>
+      <url>https://TsangEyan.github.io/media/logo_hu7c8f66c823bc2a62619a39dc1829654e_14272_300x300_fit_lanczos_3.png</url>
+      <title>Teaching</title>
       <link>https://TsangEyan.github.io/course/</link>
     </image>
     

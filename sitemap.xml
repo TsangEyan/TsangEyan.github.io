@@ -4,13 +4,13 @@
   
   
   <url>
-    <loc>https://TsangEyan.github.io/graduate/course1/</loc><lastmod>2022-07-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://TsangEyan.github.io/project/example1/</loc><lastmod>2022-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://TsangEyan.github.io/undergraduate/course1/</loc><lastmod>2022-07-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://TsangEyan.github.io/courses-project/course1/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://TsangEyan.github.io/graduate/course2/</loc><lastmod>2022-07-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://TsangEyan.github.io/project/example2/</loc><lastmod>2022-07-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://TsangEyan.github.io/undergraduate/course2/</loc><lastmod>2022-07-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://TsangEyan.github.io/courses-project/course2/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://TsangEyan.github.io/authors/</loc><lastmod>2022-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -18,19 +18,13 @@
   <url>
     <loc>https://TsangEyan.github.io/project/</loc><lastmod>2022-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://TsangEyan.github.io/author/robert-ford/</loc><lastmod>2022-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://TsangEyan.github.io/tags/</loc><lastmod>2022-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://TsangEyan.github.io/tag/xr/</loc><lastmod>2022-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://TsangEyan.github.io/author/%E5%B0%8F%E6%98%8E/</loc><lastmod>2022-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://TsangEyan.github.io/author/%E9%99%88%E6%9F%B3%E9%9D%92/</loc><lastmod>2022-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://TsangEyan.github.io/project/example1/</loc><lastmod>2022-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://TsangEyan.github.io/graduate/</loc><lastmod>2022-07-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://TsangEyan.github.io/undergraduate/</loc><lastmod>2022-07-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://TsangEyan.github.io/tag/cv/</loc><lastmod>2022-07-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -41,8 +35,6 @@
     <loc>https://TsangEyan.github.io/talk/example2/</loc><lastmod>2022-07-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://TsangEyan.github.io/talk/example/</loc><lastmod>2022-07-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://TsangEyan.github.io/project/example2/</loc><lastmod>2022-07-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://TsangEyan.github.io/project/example3/</loc><lastmod>2022-07-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -78,14 +70,16 @@
   <url>
     <loc>https://TsangEyan.github.io/publication/</loc><lastmod>2022-06-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://TsangEyan.github.io/author/robert-ford/</loc><lastmod>2022-06-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://TsangEyan.github.io/people/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://TsangEyan.github.io/categories/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://TsangEyan.github.io/tag/course/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://TsangEyan.github.io/courses-project/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://TsangEyan.github.io/course/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://TsangEyan.github.io/tour/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://TsangEyan.github.io/author/%E5%B0%8F%E6%98%8E/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://TsangEyan.github.io/author/%E5%B0%8F%E7%BA%A2/</loc><changefreq>weekly</changefreq></url></urlset>
