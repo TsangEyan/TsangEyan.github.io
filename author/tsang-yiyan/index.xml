@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tsang Yiyan | D3Lab</title>
+    <link>https://TsangEyan.github.io/author/tsang-yiyan/</link>
+      <atom:link href="https://TsangEyan.github.io/author/tsang-yiyan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tsang Yiyan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://TsangEyan.github.io/author/tsang-yiyan/avatar_hu196bf38983e616cbb11fc8fe3d959195_3753512_270x270_fill_lanczos_center_3.png</url>
+      <title>Tsang Yiyan</title>
+      <link>https://TsangEyan.github.io/author/tsang-yiyan/</link>
+    </image>
+    
+  </channel>
+</rss>
